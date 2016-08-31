@@ -1,0 +1,13 @@
+2.1 Git Basics - Getting a Git Repository
+
+Getting a Git Repository
+
+Initializing a Repository in an Existing Directory
+git init
+
+Cloning an Existing Repository
+The following command will create a folder with the same name as the repository.
+git clone url-of-the-repository 
+
+To clone in a desired directory say my_directory:
+git clone url-of-the-repository my_directory
